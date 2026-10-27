@@ -1,1 +1,1 @@
-# AI101_MIni_Project
+# Maximum loan Amount Estimation
