@@ -6,6 +6,5 @@ predicts the maximum loan amount with based on  property feature using linear re
 |Nikita Choudhary|2026MCB1550|Documentation Lead|
 |Anurag Beri|2026AIB1018|Execution lead|
 |Aashish Kumar|2026EEB1312|PPT Lead |
-|Aashish Kumar|2026EEB1312|PPT Lead|8969773224 |
 |Kushagra Gupta|2026EEB1370|Video Lead|
 ## Project structure
