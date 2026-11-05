@@ -8,3 +8,7 @@ predicts the maximum loan amount with based on  property feature using linear re
 |Aashish Kumar|2026EEB1312|PPT Lead |
 |Kushagra Gupta|2026EEB1370|Video Lead|
 ## Project structure
+## Setup
+## How to run?
+## Links 
+## AI Use Disclosure 
