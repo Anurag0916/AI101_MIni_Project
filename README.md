@@ -23,7 +23,9 @@ loan-amount-prediction/
 ## Setup
 ```
 git clone https://github.com/Anurag0916/AI101_MIni_Project.git
-cd maximum-loan-amount-estimation
+cd AI101_MIni_Project
+python-m venv venv
+source venv/bin/activate # Windows: venv\scripts\activate
 pip install -r requirements.txt
 ```
 ## How to run?
