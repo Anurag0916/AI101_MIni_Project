@@ -8,7 +8,7 @@ predicts the maximum loan amount with based on  property feature using linear re
 |Aashish Kumar|2026EEB1312|PPT Lead |
 |Kushagra Gupta|2026EEB1370|Video Lead|
 ## Project structure
-```text
+```
 loan-amount-prediction/
 ├── data/
 │  └── loan_approval_dataset.csv
@@ -21,6 +21,11 @@ loan-amount-prediction/
 └── README.md
 ```
 ## Setup
+```
+git clone https://github.com/Anurag0916/AI101_MIni_Project.git
+cd maximum-loan-amount-estimation
+pip install -r requirements.txt
+```
 ## How to run?
 ## Links 
 ## AI Use Disclosure 
