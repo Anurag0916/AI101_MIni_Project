@@ -29,9 +29,9 @@ source venv/bin/activate # Windows: venv\scripts\activate
 pip install -r requirements.txt
 ```
 ## How to run?
-1 Run `python src/main.py`
-2 The script prints model accuracy and saves plot in `outputs/`
-3 expected runtime: Under 30 seconds 
+1. Run `python src/main.py`
+2. The script prints model accuracy and saves plot in `outputs/`
+3. expected runtime: Under 30 seconds 
 
 ## Links 
 ## AI Use Disclosure 
