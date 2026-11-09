@@ -19,22 +19,41 @@ entry point and model pipeline
 └── README.md
 ```
 ## Setup
-Tested on python 3.10 and 3.11 (Windows,macos)
-```
+
+**1. Clone the repository**
+```bash
 git clone https://github.com/Anurag0916/AI101_MIni_Project.git
 cd AI101_MIni_Project
-python-m venv venv 
-venv\Scripts\activate(#for Windows)
-# For Macos and Linux:source venv/bin/activate 
+```
+
+**2. Create and activate a virtual environment**
+
+Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+macOS / Linux:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+**3. Install the dependencies**
+```bash
 python -m pip install -r requirements.txt
 ```
-## How to run?
-1. Run the setup in your terminal
-2. run jupyter notebook in your terminal
-3. open project.ipynb in the browser interface
-4. click cell > run all
-5. The script prints the data summary,outputs the correlation heatmap,and displays the model accuracy metrics(MAE,MSE,R2)
-6. expected runtime: Under 1 minute
+
+## How to run
+
+1. Start Jupyter from the project folder:
+   ```bash
+   jupyter notebook project.ipynb
+   ```
+2. In the notebook, choose **Kernel → Restart & Run All** (or press `Shift+Enter` through each cell in order).
+3. The notebook loads the dataset from `data/`, trains the linear regression model and prints the evaluation metrics and plots.
+
 
 ## Links 
 ## AI Use Disclosure 
