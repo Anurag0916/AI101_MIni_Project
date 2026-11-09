@@ -27,7 +27,7 @@ python-m venv venv
 venv\Scripts\activate(#for Windows)
 # For Macos and Linux:source
 venv/bin/activate 
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 ## How to run?
 1. Run the setup in your terminal
