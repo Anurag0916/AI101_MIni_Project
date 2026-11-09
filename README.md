@@ -23,7 +23,7 @@ Tested on python 3.10 and 3.11 (Windows,macos)
 ```
 git clone https://github.com/Anurag0916/AI101_MIni_Project.git
 cd AI101_MIni_Project
-python-m venv venv
+python-m venv venv 
 venv\Scripts\activate(#for Windows)
 # For Macos and Linux:source venv/bin/activate 
 python -m pip install -r requirements.txt
@@ -31,7 +31,7 @@ python -m pip install -r requirements.txt
 ## How to run?
 1. Run the setup in your terminal
 2. run jupyter notebook in your terminal
-3. open loan_prediction.ipynb in the browser interface
+3. open project.ipynb in the browser interface
 4. click cell > run all
 5. The script prints the data summary,outputs the correlation heatmap,and displays the model accuracy metrics(MAE,MSE,R2)
 6. expected runtime: Under 1 minute
