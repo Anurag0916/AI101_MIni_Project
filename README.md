@@ -19,7 +19,7 @@ entry point and model pipeline
 └── README.md
 ```
 ## Setup
-
+Tested on Python 3.14(Windows,Macos)
 **1. Clone the repository**
 ```bash
 git clone https://github.com/Anurag0916/AI101_MIni_Project.git
