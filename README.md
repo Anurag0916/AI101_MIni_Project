@@ -25,8 +25,7 @@ git clone https://github.com/Anurag0916/AI101_MIni_Project.git
 cd AI101_MIni_Project
 python-m venv venv
 venv\Scripts\activate(#for Windows)
-# For Macos and Linux:source
-venv/bin/activate 
+# For Macos and Linux:source venv/bin/activate 
 python -m pip install -r requirements.txt
 ```
 ## How to run?
