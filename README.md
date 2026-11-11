@@ -56,5 +56,12 @@ python -m pip install -r requirements.txt
 
 
 ## Links 
-## AI Use Disclosure 
-Large Language models(Gemini) were used to debug preprocessing pipeline errors in scikit-learn(column Transformer and pipeline implementations),add code documentation/comments,and to draft the intial structure of this README file.all generated code and text were reviewed,modified for accuracy,and are fully understood by the team
+Presentation: (https://1drv.ms/p/c/2014e32ad65baf52/IQAXSX0vh-O2QauVQ9D3mnmqAWqjDCM0dL_1KngNkoAc4DU?e=mjuFYF)
+Video:
+Github Repo: (https://github.com/Anurag0916/AI101_MIni_Project)
+
+## AI Use Disclosure
+
+Claude and Gemini were used for debugging errors in code, create a heatmap and to solve a git pull conflict.​
+Gemini was used to generate the first draft of README. Edited By Nikita.​
+AI tools were used to create the template of the presentation. Edited by Aashish.​
