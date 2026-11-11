@@ -22,8 +22,8 @@ entry point and model pipeline
 Tested on Python 3.14(Windows,Macos)
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Anurag0916/AI101_MIni_Project.git
-cd AI101_MIni_Project
+git clone https://github.com/Anurag0916/AI101_MIni_Project.git loan_predictor_team_67
+cd loan_predictor_team_67
 ```
 
 **2. Create and activate a virtual environment**
