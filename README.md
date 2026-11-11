@@ -1,5 +1,5 @@
 # Maximum loan Amount Estimation
-predicts the maximum loan amount with based on  property feature using linear regression
+Predicts the maximum loan amount with based on  property feature using linear regression
 ## Team and roles
 |Member|Entry no.|Role|
 |-|-|-|
@@ -57,7 +57,7 @@ python -m pip install -r requirements.txt
 
 ## Links 
 Presentation: (https://1drv.ms/p/c/2014e32ad65baf52/IQAXSX0vh-O2QauVQ9D3mnmqAWqjDCM0dL_1KngNkoAc4DU?e=mjuFYF)
-Video:
+Video: (https://www.youtube.com/watch?v=WYuvF2AlEbQ)
 Github Repo: (https://github.com/Anurag0916/AI101_MIni_Project)
 
 ## AI Use Disclosure
